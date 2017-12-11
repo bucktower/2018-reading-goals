@@ -22,6 +22,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 7. Thing Explainer
 8. Catch 22
 9. Extreme Ownership: How U.S. Navy SEALs Lead and Win
+10. Lonesome Dove
 
 ## Buck's Progress
 ### Common 10
@@ -34,6 +35,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Thing Explainer
 - [ ] Catch 22
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
+- [ ] Lonesome Dove
 ### Specific 10
 - [ ] Slaughterhouse-Five
 - [ ] The Fountainhead
@@ -57,6 +59,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Thing Explainer
 - [ ] Catch 22
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
+- [ ] Lonesome Dove
 ### Specific 10
 - [ ]
 - [ ]
