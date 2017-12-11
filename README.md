@@ -50,7 +50,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 
 ## Diego's Progress
 ### Common 10
-- [ ] Astrophysics for People in a Hurry
+- [ ] **Astrophysics for People in a Hurry**
 - [ ] Elon Musk
 - [ ] Zero to One
 - [ ] The Subtle Art of Not Giving a F*ck
