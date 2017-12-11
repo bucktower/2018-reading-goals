@@ -16,7 +16,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 1. Astrophysics for People in a Hurry
 2. Elon Musk
 3. Zero to One
-4. Blockchain Revolution
+4. The Subtle Art of Not Giving a F*ck 
 5. Shoe Dog
 6. Capital
 7. Thing Explainer
@@ -28,7 +28,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] **Astrophysics for People in a Hurry**
 - [ ] Elon Musk
 - [ ] Zero to One
-- [ ] Blockchain Revolution
+- [ ] The Subtle Art of Not Giving a F*ck
 - [ ] Shoe Dog
 - [ ] Capital
 - [ ] Thing Explainer
@@ -38,7 +38,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Slaughterhouse-Five
 - [ ] Fountainhead
 - [ ] Communist Manifesto
-- [ ]
+- [ ] Blockchain Revolution
 - [ ]
 - [ ]
 - [ ]
@@ -51,7 +51,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Astrophysics for People in a Hurry
 - [ ] Elon Musk
 - [ ] Zero to One
-- [ ] Blockchain Revolution
+- [ ] The Subtle Art of Not Giving a F*ck
 - [ ] Shoe Dog
 - [ ] Capital
 - [ ] Thing Explainer
