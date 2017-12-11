@@ -16,7 +16,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 1. Astrophysics for People in a Hurry
 2. Elon Musk
 3. Zero to One
-4. The Subtle Art of Not Giving a F*ck 
+4. The Subtle Art of Not Giving a F*ck
 5. Shoe Dog
 6. Capital
 7. Thing Explainer
@@ -36,15 +36,15 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
 ### Specific 10
 - [ ] Slaughterhouse-Five
-- [ ] Fountainhead
-- [ ] Communist Manifesto
+- [ ] The Fountainhead
+- [ ] Cracking the Coding Interview
 - [ ] Blockchain Revolution
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] The Food Lab: Better Home Cooking Through Science
+- [ ] The Martian
+- [ ] Creativity, Inc.
+- [ ] Bigger Leaner Stronger
+- [ ] The Power of Habit: Why We Do What We Do in Life and Business
+- [ ] Artificial Intelligence: A Modern Approach
 
 ## Diego's Progress
 ### Common 10
