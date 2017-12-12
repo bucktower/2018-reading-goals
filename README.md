@@ -39,7 +39,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 ### Specific 10
 - [ ] Slaughterhouse-Five
 - [ ] The Fountainhead
-- [ ] Cracking the Coding Interview
+- [ ] **Cracking the Coding Interview**
 - [ ] Blockchain Revolution
 - [ ] The Food Lab: Better Home Cooking Through Science
 - [ ] The Martian
