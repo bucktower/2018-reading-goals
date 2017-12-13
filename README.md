@@ -1,5 +1,5 @@
 # Books to Read
-20 books that Buck and Diego will read by 11:59pm December 31, 2018.
+20 books that Buck, Diego, and Alex will read by 11:59pm December 31, 2018.
 
 ## Formatting
 **Bold** means that it's in progress.
@@ -71,3 +71,27 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ]
 - [ ]
 - [ ]
+
+## Alex's Progress
+### Common 10
+- [ ] **Astrophysics for People in a Hurry**
+- [ ] Elon Musk
+- [ ] Zero to One
+- [ ] The Subtle Art of Not Giving a F*ck
+- [ ] Shoe Dog
+- [ ] Capital
+- [ ] Thing Explainer
+- [ ] Catch 22
+- [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
+- [ ] Lonesome Dove
+### Specific 10
+- [ ] Slaughterhouse-Five
+- [ ] The Fountainhead
+- [ ] Cracking the Coding Interview
+- [ ] Manual for Living
+- [ ] How to Win Friends and Influence People
+- [ ] Influence: The Psychology of Persuasion
+- [ ] **Don Quixote**
+- [ ] Bigger Leaner Stronger
+- [ ] The Power of Habit: Why We Do What We Do in Life and Business
+- [ ] Artificial Intelligence: A Modern Approach
