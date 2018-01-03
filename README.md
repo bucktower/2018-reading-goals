@@ -74,7 +74,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 
 ## Alex's Progress
 ### Common 10
-- [ ] **Astrophysics for People in a Hurry**
+- [x] Astrophysics for People in a Hurry
 - [ ] Elon Musk
 - [ ] Zero to One
 - [ ] The Subtle Art of Not Giving a F*ck
