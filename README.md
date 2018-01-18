@@ -26,16 +26,17 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 
 ## Buck's Progress
 ### Common 10
-- [ ] **Astrophysics for People in a Hurry**
+- [x] Astrophysics for People in a Hurry *(1/10/18)*
 - [ ] Elon Musk
-- [ ] Zero to One
-- [ ] The Subtle Art of Not Giving a F*ck
+- [ ] **Zero to One**
+- [x] The Subtle Art of Not Giving a F*ck *(1/18/18)*
 - [ ] Shoe Dog
 - [ ] Capital
-- [ ] Thing Explainer
+- [ ] **Thing Explainer**
 - [ ] Catch 22
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - [ ] Lonesome Dove
+
 ### Specific 10
 - [ ] Slaughterhouse-Five
 - [ ] The Fountainhead
@@ -60,6 +61,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Catch 22
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - [ ] Lonesome Dove
+
 ### Specific 10
 - [ ]
 - [ ]
@@ -84,6 +86,7 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Catch 22
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - [ ] Lonesome Dove
+
 ### Specific 10
 - [ ] Slaughterhouse-Five
 - [ ] The Fountainhead
