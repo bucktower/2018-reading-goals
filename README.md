@@ -51,11 +51,11 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 
 ## Diego's Progress
 ### Common 10
-- [ ] **Astrophysics for People in a Hurry**
+- [x] Astrophysics for People in a Hurry
 - [ ] Elon Musk
 - [ ] Zero to One
 - [ ] The Subtle Art of Not Giving a F*ck
-- [ ] Shoe Dog
+- [ ] **Shoe Dog**
 - [ ] Capital
 - [ ] Thing Explainer
 - [ ] Catch 22
@@ -63,10 +63,10 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Lonesome Dove
 
 ### Specific 10
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Blockchain Revoluition 
+- [ ] Eleven Minutes
+- [ ] Adultery
+- [ ] 
 - [ ]
 - [ ]
 - [ ]
