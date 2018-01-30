@@ -63,11 +63,11 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Lonesome Dove
 
 ### Specific 10
-- [ ] Blockchain Revoluition 
-- [ ] Eleven Minutes
-- [ ] Adultery
-- [ ] 
-- [ ]
+- [ ] Blockchain Revolution 
+- [ ] The Power of Habit 
+- [ ] Sapiens
+- [ ] Principles
+- [ ] 12 Rules for Life
 - [ ]
 - [ ]
 - [ ]
