@@ -54,8 +54,8 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [x] Astrophysics for People in a Hurry
 - [ ] Elon Musk
 - [ ] Zero to One
-- [ ] The Subtle Art of Not Giving a F*ck
-- [ ] **Shoe Dog**
+- [ ] **The Subtle Art of Not Giving a F*ck**
+- [x] Shoe Dog
 - [ ] Capital
 - [ ] Thing Explainer
 - [ ] Catch 22
