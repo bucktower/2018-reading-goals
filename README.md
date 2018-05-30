@@ -10,6 +10,8 @@ Once a book is finished, mark a date:
 These books can easily be found on Amazon. Alternatively, you can use
 sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl/).
 
+The [Austin Public Library](http://library.austintexas.gov/) also has most (if not all) of them available.
+
 ## Common 10
 10 books everyone will read. Audiobooks count.
 
@@ -63,8 +65,8 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] Lonesome Dove
 
 ### Specific 10
-- [ ] Blockchain Revolution 
-- [ ] The Power of Habit 
+- [ ] Blockchain Revolution
+- [ ] The Power of Habit
 - [ ] Sapiens
 - [ ] Principles
 - [ ] 12 Rules for Life
@@ -76,13 +78,13 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 
 ## Alex's Progress
 ### Common 10
-- [x] Astrophysics for People in a Hurry
+- [x] Astrophysics for People in a Hurry *(1/2/18)*
 - [ ] Elon Musk
 - [ ] Zero to One
 - [ ] The Subtle Art of Not Giving a F*ck
 - [ ] Shoe Dog
 - [ ] Capital
-- [ ] Thing Explainer
+- [ ] **Thing Explainer**
 - [ ] Catch 22
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - [ ] Lonesome Dove
@@ -95,6 +97,6 @@ sites like [Libgen](http://libgen.io/) and [AudioBookBay](http://audiobookbay.nl
 - [ ] How to Win Friends and Influence People
 - [ ] Influence: The Psychology of Persuasion
 - [ ] **Don Quixote**
-- [ ] Bigger Leaner Stronger
+- [ ] **Bigger Leaner Stronger**
 - [ ] The Power of Habit: Why We Do What We Do in Life and Business
 - [ ] Artificial Intelligence: A Modern Approach
