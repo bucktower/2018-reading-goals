@@ -30,9 +30,9 @@ The [Austin Public Library](http://library.austintexas.gov/) also has most (if n
 ### Common 10
 - [x] Astrophysics for People in a Hurry *(1/10/18)*
 - [ ] Elon Musk
-- [ ] **Zero to One**
+- [x] Zero to One *(9/23/18)*
 - [x] The Subtle Art of Not Giving a F*ck *(1/18/18)*
-- [ ] Shoe Dog
+- [ ] **Shoe Dog**
 - [ ] Capital
 - [ ] **Thing Explainer**
 - [ ] Catch 22
